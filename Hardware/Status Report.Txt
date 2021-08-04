@@ -1,0 +1,35 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [Free Documents]
+   Generated File[X-Track_Copper_Signal_Top.gbr]
+   Generated File[X-Track_Copper_Signal_Bot.gbr]
+   Generated File[X-Track_Pads_Bot.gbr]
+   Generated File[X-Track_Pads_Top.gbr]
+   Generated File[X-Track_Legend_Bot.gbr]
+   Generated File[X-Track_Soldermask_Bot.gbr]
+   Generated File[X-Track_Paste_Bot.gbr]
+   Generated File[X-Track_Legend_Top.gbr]
+   Generated File[X-Track_Paste_Top.gbr]
+   Generated File[X-Track_Soldermask_Top.gbr]
+   Generated File[X-Track_Keep-out.gbr]
+   Generated File[X-Track_Mechanical_13.gbr]
+   Generated File[X-Track_Mechanical_4.gbr]
+   Generated File[X-Track_Mechanical_6.gbr]
+   Generated File[X-Track_Mechanical_5.gbr]
+   Generated File[X-Track_Mechanical_1.gbr]
+   Generated File[X-Track_Mechanical_3.gbr]
+   Generated File[X-Track_Mechanical_15.gbr]
+   Generated File[X-Track_Profile.gbr]
+   Generated File[X-Track_NPTH_Drill.gbr]
+   Generated File[X-Track_PTH_Drill.gbr]
+   Generated File[X-Track_Drawing_1.gbr]
+   Generated File[X-Track_Drillmap_1.gbr]
+   Generated File[X-Track.RUL]
+   Generated File[X-Track.EXTREP]
+   Generated File[X-Track.REP]
+
+
+Files Generated   : 26
+Documents Printed : 0
+
+Finished Output Generation At 23:52:24 On 2021/8/3
